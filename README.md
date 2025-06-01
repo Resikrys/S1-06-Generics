@@ -28,6 +28,8 @@ Modify the previous exercise so that one of the arguments
 to the generic method is not generic.
 
 ### LEVEL 2 - EXERCISE 2
+Modify the previous section so that the arguments to the 
+generic method are an undefined variable argument list.
 
 ### TECHNOLOGIES
 | Package                    | Version | Description                |
