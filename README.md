@@ -9,6 +9,19 @@ initialize all three. Verify that the arguments can be
 placed in any position in the constructor call.
 
 ### LEVEL 1 - EXERCISE 2
+Create a class called Person with the attributes first 
+name, last name, and age. Then create a class called 
+GenericMethods with a generic method that accepts three 
+arguments of generic type. This method should only print 
+the arguments it has received to the screen. In the main() 
+of the main class, call the generic method with different 
+types of parameters.
+
+Example: an object of the Person class, a String, and a 
+primitive type.
+
+In this way you have verified that any type of parameter 
+can be passed to it and in any order.
 
 ### LEVEL 2 - EXERCISE 1
 
