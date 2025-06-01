@@ -1,4 +1,4 @@
-package s1_06_generics_lvl1_ex1;
+package s1_06_generics_lvl1_ex2;
 
 public class Task6 {
     public static void main(String[] args) {
